@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/skaynx/NetBeansProjects/EJBAcceso/src/java/servlets/EJBServlet.java</file>
+            <file>file:/Users/skaynx/NetBeansProjects/EJBAcceso/web/index.jsp</file>
+            <file>file:/Users/skaynx/NetBeansProjects/EJBAcceso/web/WEB-INF/glassfish-resources.xml</file>
+            <file>file:/Users/skaynx/NetBeansProjects/EJBAcceso/src/java/beans/CantanteEJB.java</file>
+            <file>file:/Users/skaynx/NetBeansProjects/EJBAcceso/src/java/entity/Genero.java</file>
+            <file>file:/Users/skaynx/NetBeansProjects/EJBAcceso/build/generated-sources/ap-source-output/entity/Cantante_.java</file>
+            <file>file:/Users/skaynx/NetBeansProjects/EJBAcceso/src/java/entity/Cantante.java</file>
+        </group>
+    </open-files>
+</project-private>
